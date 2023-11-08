@@ -1,0 +1,5 @@
+int main()
+{
+  printf("记录第一次学习");
+  return 0;
+}
